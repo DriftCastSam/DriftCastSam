@@ -1,52 +1,43 @@
-# Samuel Frappier-Fortin
+## Samuel Frappier-Fortin
 
-systems-oriented student with interests in:  
-**game engines, micro-architecture, real-time systems, and embedded software**.
-
-I enjoy working close to the hardware, reasoning about performance and memory,
-and designing systems that behave **predictably under constraints**.
-I’m open-minded across domains and motivated by learning through building.
+Systems-oriented student working on **game engines, real-time systems, and embedded software**.  
+I focus on **performance, memory, and predictable behavior**. I learn best by building and testing systems end-to-end.
 
 ---
 
-## Focus Areas
+### Focus Areas
 
-- Systems-level C++ design and architecture
-- Engine-level and tooling-oriented code
+- C++ design and architecture
+- Engine-level and tooling code
 - Embedded and hardware-adjacent software
 
 ---
 
-## Featured Projects
+### Featured Projects
 
 - **[Simple Compiler](link)**  
-  Compiler project exploring parsing, internal representations,
-  and code generation, with an emphasis on clarity and correctness.
+  Minimal compiler demonstrating parsing, IR, and code generation.  
+  Focus on **correctness, clear structure, and traceable transformations**.
+  Used to learn the pipeline of compiling.
 
-- **[Low-Level & Assembly Notes](link)**  
-  Personal documentation formalizing low-level concepts, assembly,
-  and calling conventions to build strong mental models.  
-  Used to help teach low-level concepts to other students.
+- **[Low-Level & Assembly Docs](link)**  
+  Notes formalizing **calling conventions, stack layout, and CPU behavior**.  
+  Used to build mental models and teach low-level concepts to other students.
 
-## In Progress
-
-- **Navigable Black Hole Simulation (C++ / OpenGL)**  
-  Exploratory project focused on multithreaded physics computation
-  and practical use of the OpenGL API.  
-  Emphasis on concurrency, data flow, and clean separation between
-  simulation and rendering.
-
-- **Wind Tunnel Embedded System**  
-  Real-time embedded project involving hardware interfacing, sensor data,
-  and validation under real-world constraints.  
-  Used in the context of a master’s thesis at UQAR.
-  
 ---
 
+### In Progress
 
+- **Navigable Black Hole Simulation (C++ / OpenGL)**  
+  Interactive simulation with **multi-threaded physics** and real-time rendering.  
+  Emphasis on **data flow, simulation-render separation, and concurrency**.
 
-**Languages**: C++, C, Assembly  
-**Environment**: Linux  
-**Build & Workflow**: Make, Git  
-**Interests**: Performance, determinism, architecture, physics, simulation, digital twins
+- **Wind Tunnel Embedded System**  
+  Real-time embedded system for **sensor acquisition, validation, and control**.  
+  Focus on **hardware interfacing, timing guarantees, and reliability**.
+  Part of a **master’s thesis at UQAR**.
 
+---
+
+- Most used Languages: C, C++, Assembly (x86-32), Python
+- Domains of interest: real-time systems, hardware architecture, game engines, graphics, embedded systems
