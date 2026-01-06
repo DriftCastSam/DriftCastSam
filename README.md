@@ -19,11 +19,6 @@ I focus on **performance, memory, and predictable behavior**. I learn best by bu
   Minimal compiler demonstrating parsing, IR, and code generation.  
   Focus on **correctness, clear structure, and traceable transformations**.
   Used to learn the pipeline of compiling.
-
-- **[Low-Level & Assembly Docs](link)**  
-  Notes formalizing **calling conventions, stack layout, and CPU behavior**.  
-  Used to build mental models and teach low-level concepts to other students.
-
 ---
 
 ### In Progress
