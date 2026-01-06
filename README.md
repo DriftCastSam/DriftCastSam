@@ -1,38 +1,44 @@
 ## Samuel Frappier-Fortin
 
-Systems-oriented student working on **game engines, real-time systems, and embedded software**.  
-I focus on **performance, memory, and predictable behavior**. I learn best by building and testing systems end-to-end.
+Systems-oriented developer focused on **game engines, real-time systems, and embedded software**.  
+Primary interests are **performance, memory behavior, and deterministic execution**.  
+I learn by **building complete systems end-to-end** and validating them under real constraints.
 
 ---
 
-### Focus Areas
+### Core Focus
 
-- C++ design and architecture
-- Engine-level and tooling code
+- C++ design and low-level architecture
+- Engine-level systems and tooling
 - Embedded and hardware-adjacent software
+- Concurrency, data flow, and timing guarantees
 
 ---
 
 ### Featured Projects
 
-- **[Simple Compiler](link)**  
-  Minimal compiler demonstrating parsing, IR, and code generation.  
-  Focus on **correctness, clear structure, and traceable transformations**.
-  Used to learn the pipeline of compiling.
+- **[Minimal Compiler](https://github.com/DriftCastSam/Compiler)**  
+  A small compiler implementing **lexing, parsing, IR construction, and code generation**.  
+  Designed to emphasize **correctness, explicit structure, and traceable transformations**.  
+  Built to understand the full compilation pipeline rather than isolated components.
+
+- **[Navigable Black Hole Simulation](https://github.com/DriftCastSam/Blackhole)**  
+  Real-time C++ / OpenGL simulation with **interactive navigation**.  
+  Uses **multi-threaded physics**, with a clear separation between **simulation and rendering**.  
+  Focuses on **data-oriented design, concurrency, and real-time constraints**.
+
 ---
 
 ### In Progress
 
-- **Navigable Black Hole Simulation (C++ / OpenGL)**  
-  Interactive simulation with **multi-threaded physics** and real-time rendering.  
-  Emphasis on **data flow, simulation-render separation, and concurrency**.
-
 - **Wind Tunnel Embedded System**  
-  Real-time embedded system for **sensor acquisition, validation, and control**.  
-  Focus on **hardware interfacing, timing guarantees, and reliability**.
-  Part of a **master’s thesis at UQAR**.
+  Real-time embedded system for **sensor acquisition, validation, and closed-loop control**.  
+  Emphasis on **hardware interfacing, deterministic timing, and fault handling**.  
+  Developed as part of a **Master’s thesis at UQAR**.
 
 ---
 
-- Most used Languages: C, C++, Assembly (x86-32), Python
-- Domains of interest: real-time systems, hardware architecture, game engines, graphics, embedded systems
+### Technical Stack
+
+- **Languages:** C, C++, x86-32 Assembly, Python  
+- **Domains:** real-time systems, hardware architecture, game engines, graphics, embedded systems
