@@ -17,16 +17,15 @@ I learn by **building complete systems end-to-end** and validating them under re
 
 ### Featured Projects
 
-- **[Minimal Compiler](https://github.com/DriftCastSam/Compiler)**  
-  A small compiler implementing **lexing, parsing, IR construction, and code generation**.  
-  Designed to emphasize **correctness, explicit structure, and traceable transformations**.  
-  Built to understand the full compilation pipeline rather than isolated components.
+- **[Minimal Compiler](https://github.com/DriftCastSam/Compiler)**
+- An x86-32 compiler implementing Ghuloum's incremental approach for a Scheme-like language with arithmetic, variables, conditionals, and heap allocation.
+- Features dual evaluation modes: Runtime Evaluation (RTE) generates full assembly, while Compile-Time Evaluation (CTE) pre-computes constants like C++ constexpr.
+- Includes comprehensive tests and assembly comparisons showing optimization impact.
 
-- **[Navigable Black Hole Simulation](https://github.com/DriftCastSam/Blackhole)**  
-  Real-time C++ / OpenGL simulation with **interactive navigation**.  
-  Uses **multi-threaded physics**, with a clear separation between **simulation and rendering**.  
-  Focuses on **data-oriented design, concurrency, and real-time constraints**.
-
+- **[Black Hole Simulation](https://github.com/DriftCastSam/Blackhole)**  
+  Real-time 2D particle simulation of a blackhole with Newtonian gravity and collision physics.
+  Built with C++ and OpenGL, handles ~1500 particles using spatial hashing for efficient collision detection.
+  Includes UI controls for spawning patterns, time scaling, and interactive camera zoom.
 ---
 
 ### In Progress
