@@ -33,7 +33,7 @@ I learn by **building complete systems end-to-end** and validating them under re
 - **Wind Tunnel Embedded System**  
   Real-time embedded system for **sensor acquisition, validation, and closed-loop control**.  
   Emphasis on **hardware interfacing, deterministic timing, and fault handling**.  
-  Developed as part of a **Master’s thesis at UQAR**.
+  Developed to support a **Master’s thesis at UQAR**.
 
 ---
 
